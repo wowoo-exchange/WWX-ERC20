@@ -1,0 +1,31 @@
+{
+  "name": "wwx-erc20",
+  "version": "1.0.0",
+  "description": "Wowoo Exchnage (WWX) ERC-20 token",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/lechiffre-intl/wwx-erc20.git"
+  },
+  "keywords": [
+    "Wowoo",
+    "Exchange",
+    "WWX",
+    "ERC20"
+  ],
+  "author": "Haroon Shahid Bashir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/lechiffre-intl/wwx-erc20/issues"
+  },
+  "homepage": "https://gitlab.com/lechiffre-intl/wwx-erc20#readme",
+  "devDependencies": {
+    "mocha": "^6.2.0",
+    "solidity-coverage": "^0.5.11",
+    "truffle": "^5.0.30",
+    "truffle-hdwallet-provider": "^1.0.15"
+  }
+}
