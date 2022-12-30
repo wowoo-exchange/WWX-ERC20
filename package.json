@@ -23,7 +23,7 @@
   },
   "homepage": "https://gitlab.com/lechiffre-intl/wwx-erc20#readme",
   "devDependencies": {
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "solidity-coverage": "^0.5.11",
     "truffle": "^5.0.30",
     "truffle-hdwallet-provider": "^1.0.15"
